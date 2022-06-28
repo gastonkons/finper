@@ -1,0 +1,10 @@
+const userTypes = {
+  USER_LOGIN: 'USER_LOGIN',
+  USER_LOGOUT: 'USER_LOGOUT',
+  USER_REGISTER: 'USER_REGISTER',
+  USER_UPDATE: 'USER_UPDATE',
+  USER_LOADING: 'USER_LOADING',
+  USER_ERROR: 'USER_ERROR',
+}
+
+export default userTypes;
